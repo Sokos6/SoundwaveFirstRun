@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "soundwave",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authsoundwavef1b708d3",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

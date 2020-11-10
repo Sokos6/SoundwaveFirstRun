@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-soundwave-dev-165314-authRole",
+      "UnauthRoleArn": "arn:aws:iam::443433924981:role/amplify-soundwave-dev-165314-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::443433924981:role/amplify-soundwave-dev-165314-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-soundwave-dev-165314-deployment",
+      "UnauthRoleName": "amplify-soundwave-dev-165314-unauthRole",
+      "StackName": "amplify-soundwave-dev-165314",
+      "StackId": "arn:aws:cloudformation:us-east-1:443433924981:stack/amplify-soundwave-dev-165314/5b3e5d70-22de-11eb-a586-0e43f2110cc5",
+      "AmplifyAppId": "dghft9a0mry7p"
+    },
+    "categories": {
+      "auth": {
+        "soundwavef1b708d3": {}
+      }
+    }
+  }
+}
